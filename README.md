@@ -21,7 +21,7 @@
   
   - 🖱️ Software programming technician - UDEA 
   - 🧠 Learn about JavaScript, JAVA and Python
-  - 📧 How to reach me **jsebastianmartinezmarin@gmail.com**
+  - 📧 How to reach me **jsebastianmartinezmarin@hotmail.com**
   - 📱 I'm content creator for Instagram [nutrideconfianza](https://www.instagram.com/nutrideconfianza)
   
  <div align="left">
