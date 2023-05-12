@@ -2,9 +2,14 @@
   <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="200" />
   <h1 align="center">Hi 👋, I'm JSolutionsPro</h1>
   <h3 align="center">
-    <p>🖥️ Highly skilled web developer with expertise in front-end and back-end technologies. Proficient in HTML, CSS, JavaScript. Passionate about creating user-friendly and efficient web applications. Dedicated to staying current with the latest development trends and technologies.</p>
+    <p>🖥️ Highly skilled web developer with expertise in front-end and back-end technologies. Proficient in HTML, CSS, JavaScript. Passionate about creating user-friendly and efficient web applications. Dedicated to staying current with the latest development trends and technologies. 🎮 Unity Jr Game Developer capable of creating and designing 2D and 3D games, utilizing C# as a programming language. I have acquired skills in managing the Unity user interface, creating custom scripts, and performance optimization. I am committed to continuing learning and improving my skills to provide high-quality solutions to the game projects I work on.</p>
+
+
+
+
+</p>
     <hr>
-    <p>🖥️ Desarrollador web altamente capacitado con experiencia en tecnologías front-end y back-end. Proficiente en HTML, CSS, JavaScript. Apasionado por crear aplicaciones web eficientes y fáciles de usar. Dedicado a mantenerse actualizado con las últimas tendencias y tecnologías de desarrollo.</p>
+    <p>🖥️ Desarrollador web altamente capacitado con experiencia en tecnologías front-end y back-end. Proficiente en HTML, CSS, JavaScript. Apasionado por crear aplicaciones web eficientes y fáciles de usar. Dedicado a mantenerse actualizado con las últimas tendencias y tecnologías de desarrollo. 🎮 Unity Jr Game developer, capaz de crear y diseñar juegos 2D y 3D, utilizando C# como lenguaje de programacion. He adquirido habilidades en el manejo de la interfaz de usuario de Unity, la creación de scripts personalizados y la optimización de rendimiento. Me comprometo a seguir aprendiendo y mejorando mis habilidades para ofrecer soluciones de alta calidad a los proyectos de juego en los que trabajo.</p>
   </h3>
 </div>
 
@@ -19,7 +24,8 @@
   
 ### About Me: 👋
   
-  - 🖱️ Software programming technician - UDEA 
+  - 🖱️ Software programming technician - UDEA
+  - 🕹️ Unity Jr Game Developer
   - 🧠 Learn about JavaScript, JAVA and Python
   - 📧 How to reach me **jsebastianmartinezmarin@hotmail.com**
   - 📱 I'm content creator for Instagram [nutrideconfianza](https://www.instagram.com/nutrideconfianza)
@@ -27,15 +33,15 @@
  <div align="left">
    <h3> 🔨 Languages and tools</h3>
    <div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" tittle="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" tittle="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angualr" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
