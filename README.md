@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="200" />
-  <h1 align="center">Hi 👋, I'm JSolutionsPro</h1>
+  <h1 align="center">Hi 👋, I'm Sebastian Martinez</h1>
   <h3 align="center">
     <p>🖥️ Highly skilled web developer with expertise in front-end and back-end technologies. Proficient in HTML, CSS, JavaScript. Passionate about creating user-friendly and efficient web applications. Dedicated to staying current with the latest development trends and technologies. 🎮 Unity Jr Game Developer capable of creating and designing 2D and 3D games, utilizing C# as a programming language. I have acquired skills in managing the Unity user interface, creating custom scripts, and performance optimization. I am committed to continuing learning and improving my skills to provide high-quality solutions to the game projects I work on.</p>
 
