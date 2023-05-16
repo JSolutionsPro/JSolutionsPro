@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="200" />
   <h1 align="center">Hi 👋, I'm Sebastian Martinez</h1>
   <h3 align="center">
-    <p>🖥️ Highly skilled web developer with expertise in front-end and back-end technologies. Proficient in HTML, CSS, JavaScript. Passionate about creating user-friendly and efficient web applications. Dedicated to staying current with the latest development trends and technologies. 🎮 Unity Jr Game Developer capable of creating and designing 2D and 3D games, utilizing C# as a programming language. I have acquired skills in managing the Unity user interface, creating custom scripts, and performance optimization. I am committed to continuing learning and improving my skills to provide high-quality solutions to the game projects I work on.</p>
+    <p>🖥️ Highly skilled web developer with expertise in front-end and back-end technologies. Proficient in HTML, CSS, JavaScript. Passionate about creating user-friendly and efficient web applications. Dedicated to staying current with the latest development trends and technologies. 🎮 Unity Game Developer capable of creating and designing 2D and 3D games, utilizing C# as a programming language. I have acquired skills in managing the Unity user interface, creating custom scripts, and performance optimization. I am committed to continuing learning and improving my skills to provide high-quality solutions to the game projects I work on.</p>
 
 
 
 
 </p>
     <hr>
-    <p>🖥️ Desarrollador web altamente capacitado con experiencia en tecnologías front-end y back-end. Proficiente en HTML, CSS, JavaScript. Apasionado por crear aplicaciones web eficientes y fáciles de usar. Dedicado a mantenerse actualizado con las últimas tendencias y tecnologías de desarrollo. 🎮 Unity Jr Game developer, capaz de crear y diseñar juegos 2D y 3D, utilizando C# como lenguaje de programacion. He adquirido habilidades en el manejo de la interfaz de usuario de Unity, la creación de scripts personalizados y la optimización de rendimiento. Me comprometo a seguir aprendiendo y mejorando mis habilidades para ofrecer soluciones de alta calidad a los proyectos de juego en los que trabajo.</p>
+    <p>🖥️ Desarrollador web altamente capacitado con experiencia en tecnologías front-end y back-end. Proficiente en HTML, CSS, JavaScript. Apasionado por crear aplicaciones web eficientes y fáciles de usar. Dedicado a mantenerse actualizado con las últimas tendencias y tecnologías de desarrollo. 🎮 Unity Game developer, capaz de crear y diseñar juegos 2D y 3D, utilizando C# como lenguaje de programacion. He adquirido habilidades en el manejo de la interfaz de usuario de Unity, la creación de scripts personalizados y la optimización de rendimiento. Me comprometo a seguir aprendiendo y mejorando mis habilidades para ofrecer soluciones de alta calidad a los proyectos de juego en los que trabajo.</p>
   </h3>
 </div>
 
@@ -25,7 +25,7 @@
 ### About Me: 👋
   
   - 🖱️ Software programming technician - UDEA
-  - 🕹️ Unity Jr Game Developer
+  - 🕹️ Unity Game Developer
   - 🧠 Learn about JavaScript, JAVA and Python
   - 📧 How to reach me **jsebastianmartinezmarin@hotmail.com**
   - 📱 I'm content creator for Instagram [nutrideconfianza](https://www.instagram.com/nutrideconfianza)
